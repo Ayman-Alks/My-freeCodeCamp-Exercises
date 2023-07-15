@@ -2,7 +2,7 @@
 <h3>My journey through the FreeCodeCamp's Curriculum</h3>
 
 `STATS`
-🌱 `Level = 0` `3XP` ♦ `Need 17 more XP to levelUP`
+🌱 `Level = 0` `4XP` ♦ `Need 16 more XP to levelUP`
  <h3>Certs : 0/15</h3>
  
  `Collect em all!`
@@ -24,7 +24,7 @@
     <li>🌟<s>Learn HTML by building a Cat Photo App</s></li>
     <li>🌟<s>Learn Basic CSS by Building a Cafe menu</s></li>
     <li>🌟<s>Learn CSS Colors by Building a Set of Colored Markers</s></li>
-    <li>Learn HTML Forms by Building a Registration Form</li>
+    <li>🌟<s>Learn HTML Forms by Building a Registration Form</s></li>
     <li>🎃 Build a Survey Form</li>
   </ol>
 </figure>
